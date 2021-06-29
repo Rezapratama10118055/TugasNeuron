@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Neuro Kids</string>
+    <string name="judulmateri">Materi Pembahasan Neurosains</string>
+    <string name="sapa">Halo Kids</string>
+    <string name="keinginan">What do you want to do today?</string>
+    <string name="judul">Judul Materi</string>
+    <string name="bagianotak">Bagian Otak</string>
+    <string name="Penjelasan">Penjelasan</string>
+    <string name="nu">Neurosains</string>
+    <string name="pjln">Merupakan keterkaitan menghubungkan otak dan sistem syaraf, sehingga menjadikan suatu pemikiran dan
+        menunjukan respon berupa tindakan dan tingkah laku.</string>
+
+
+</resources>
