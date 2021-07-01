@@ -60,6 +60,7 @@
                         android:layout_weight="1"
                         android:text="@string/Penjelasan"
                         android:textColor="#66DE93"
+                        android:textSize="18sp"
                         android:textStyle="bold" />
 
 
