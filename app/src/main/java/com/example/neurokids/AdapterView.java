@@ -88,7 +88,7 @@ public class AdapterView extends RecyclerView.Adapter<AdapterView.ViewHolder> {
             super(itemView);
             judul = itemView.findViewById(R.id.judul);
             images = itemView.findViewById(R.id.Pantai);
-            detail = itemView.findViewById(R.id.detail);
+//            detail = itemView.findViewById(R.id.detail);
             linearLayout = itemView.findViewById(R.id.linearoyy);
             penjelasan = itemView.findViewById(R.id.txtpenjelasan);
 
